@@ -1,0 +1,17 @@
+body {
+    max-width: 70vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: pink;
+}
+.name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
